@@ -1,6 +1,7 @@
-
-
 import database as db
+import MainPage as mp
+
+
 
 if db.createTables():
     db.rawSerialReader('2020')
@@ -9,6 +10,8 @@ if db.createTables():
     db.multipleSerial()
     db.serialSeries()
     db.simpleSerial()
+
+mp.mainPage()
 
 
 while 1:

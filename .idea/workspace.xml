@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2735e66-bdd4-4fe4-87ac-f633ef23231b" name="Changes" comment="working without ui">
+    <list default="true" id="d2735e66-bdd4-4fe4-87ac-f633ef23231b" name="Changes" comment="create gui and test a few result">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,7 @@
       <workItem from="1745446125762" duration="4261000" />
       <workItem from="1745535026345" duration="12320000" />
       <workItem from="1745607500111" duration="10384000" />
-      <workItem from="1745686614686" duration="13061000" />
+      <workItem from="1745686614686" duration="13418000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -160,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745708685851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create gui and test a few result">
+      <option name="closed" value="true" />
+      <created>1745719319217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745719319217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,10 +177,11 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="raw data reading" />
     <MESSAGE value="working without ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="working without ui" />
+    <MESSAGE value="create gui and test a few result" />
+    <option name="LAST_COMMIT_MESSAGE" value="create gui and test a few result" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/serialFinder$main.coverage" NAME="main Coverage Results" MODIFIED="1745718417160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/serialFinder$main.coverage" NAME="main Coverage Results" MODIFIED="1745719165487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/serialFinder$tool.coverage" NAME="tool Coverage Results" MODIFIED="1744854780412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
